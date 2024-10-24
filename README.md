@@ -1,0 +1,5 @@
+This project implements the `StringVector` class in C++, which manages a collection of words stored in a vector for text analysis. The focus of the project is on efficiently analyzing large text files, such as books from the Project Gutenberg Ebook collection, by providing methods for reading, storing, and searching words using both linear and binary search techniques.
+
+The primary functionality revolves around counting the total number of words in a text file and identifying the number of unique words. The system supports two different search methods—linear search for unsorted data and recursive binary search for sorted data. The binary search method improves runtime performance, especially when dealing with large datasets, by ensuring the word list remains sorted.
+
+By leveraging object-oriented programming and recursive algorithms, this project enables quick and accurate searches through large text files, ensuring that the unique word count is correct and that the total number of words is accurately tracked. The system also compares the performance of linear and binary search methods, highlighting the efficiency of binary search for large, sorted datasets.
