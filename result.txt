@@ -1,0 +1,14 @@
+
+Enter filename: WarPeace.txt
+Total Number of Unique words: 20155
+Total number of words: 563321
+Enter filename: CallWild.txt
+Total Number of Unique words: 4879
+Total number of words: 31874
+Enter filename: Dracula.txt
+Total Number of Unique words: 10479
+Total number of words: 161434
+Run time: 2.85324 seconds
+
+
+Script done:
